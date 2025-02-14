@@ -38,3 +38,7 @@ Working Principle:
 2.Users interact with a smartphone app or web dashboard to send control signals.
 3.The microcontroller receives commands and controls the lights accordingly.
 4.Sensors (if used) automate lighting based on movement or ambient conditions.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5d59a7cf-80ab-4af6-a1a4-d259ff16d7a6)
